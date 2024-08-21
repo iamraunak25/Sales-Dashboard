@@ -1,1 +1,1 @@
-# Sales_Dashboard_PowerBi_Project
+# SuperStore_Sales_Dashboard_PowerBi_Project
